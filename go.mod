@@ -4,8 +4,7 @@ go 1.14
 
 require (
 	cloud.google.com/go/storage v1.10.0
-	github.com/cloudevents/sdk-go/v2 v2.2.0
-	github.com/fsnotify/fsnotify v1.4.9 // indirect
+	github.com/cloudevents/sdk-go/v2 v2.15.2
 	github.com/golang/protobuf v1.4.3
 	github.com/google/go-cmp v0.5.5 // indirect
 	github.com/google/go-github v17.0.0+incompatible
@@ -13,7 +12,6 @@ require (
 	github.com/google/uuid v1.2.0 // indirect
 	github.com/hashicorp/golang-lru v0.5.4 // indirect
 	github.com/kelseyhightower/envconfig v1.4.0
-	github.com/onsi/gomega v1.10.1 // indirect
 	go.opencensus.io v0.23.0 // indirect
 	go.uber.org/multierr v1.6.0 // indirect
 	go.uber.org/zap v1.16.0 // indirect
